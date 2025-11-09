@@ -15,21 +15,27 @@
     ```
 
     **HASIL AKHIR**
+    ```
     x = 2
     y = 14
     z = 42
+    ```
 
 2. **PENJELASAN**
+    ---
     Flowchart tersebut menjelaskan proses perhitungan antara dua bilangan, A dan B.
     ---
+    ```
     1. Start
     2. Membaca value atau inputan A dan B
     3. Menghitung variable C, yaitu C = A - B
-    4. Pengecakan variable C, apakah C lebih besar dari 0?
-       -Jika Ya (C > 0), maka D = A * B
-       -Jika Tidak (C < 0), maka D = A/B
+    4. Pengecekan variable C, apakah C lebih besar dari 0?
+    - Jika Ya (C > 0), maka D = A * B
+    - Jika Tidak (C < 0), maka D = A / B
     5. Menampilkan hasil variable D
     6. END
+    ```
+
 
     **PSEUDOCODE**
     ```
@@ -93,12 +99,15 @@
     ```
 
 5. **PENJELASAN**
+    ---
     Menjelaskan cara menghitung total gaji(salary) seorang pegawai berdasarkan pencapaian penjualan yg ia capai(sales)
     ---
+    ```
     1. Start
     2. Input nilai sales
     3. Pengecekan nilai sales (sales > 1000)
-        -Jika Ya, Hitung bonus, bonus = 25% * sales, hitung salary, salary = 5.000.000 + bonus
-        -Jika Tidak, Salary = 5.000.000 (tidak ada bonus)
+        - Jika Ya, Hitung bonus, bonus = 25% * sales, hitung salary, salary = 5.000.000 + bonus
+        - Jika Tidak, Salary = 5.000.000 (tidak ada bonus)
     4. Tampilkan salary
     5. END
+    ```
