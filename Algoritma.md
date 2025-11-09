@@ -78,6 +78,7 @@
     ```
 
     **FLOWCHART**
+    ---
     ![Flowchart Soal No.3](flwchrtNo3.png)
 
 
@@ -102,6 +103,7 @@
     END
     ```
     **FLOWCHART**
+    ---
     ![Flowchart Soal No.4](flwchrtNo4.drawio.png)
 
 
