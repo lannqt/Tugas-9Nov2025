@@ -122,3 +122,5 @@
     ```
 
     **FLOWCHART**
+    ---
+    ![Flowchart Soal No.5](flwchrtNo5.drawio.png)
