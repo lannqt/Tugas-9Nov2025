@@ -77,6 +77,10 @@
     END
     ```
 
+    **FLOWCHART**
+    ![Flowchart Soal No.3](flwchrtNo3.png)
+
+
 4. **PSEUDOCODE**
     ```
     START
@@ -97,6 +101,9 @@
             Write("Total harga yg harus dibayar: Rp", TtlHarga)
     END
     ```
+    **FLOWCHART**
+    ![Flowchart Soal No.4](flwchrtNo4.drawio.png)
+
 
 5. **PENJELASAN**
     ---
@@ -111,3 +118,5 @@
     4. Tampilkan salary
     5. END
     ```
+
+    **FLOWCHART**
