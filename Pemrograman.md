@@ -1,4 +1,4 @@
-# TUGAS ALGORITMA - MINGGU, 9 NOVEMBER 2025
+# TUGAS PEMROGRAMAN - MINGGU, 9 NOVEMBER 2025
 
 1.  **Konversi Panjang dalam Milimeter**
     ---
