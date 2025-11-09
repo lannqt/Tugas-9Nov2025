@@ -1,6 +1,7 @@
 # TUGAS ALGORITMA - MINGGU, 9 NOVEMBER 2025
 
-1. 
+1.  **Konversi Panjang dalam Milimeter**
+    ---
     ```Pascal
     program KonversiPanjang;
     uses crt;
@@ -26,7 +27,8 @@
         readln;
     end.
     ```
-2. 
+2. **Menghitung Berat Suatu Benda di Planet Lain**
+    ---
     ```Pascal
     program BeratPlanet;
     uses crt;
@@ -57,7 +59,8 @@
         readln;
     end.
     ```
-3. 
+3. **Menentukan Kuadran**
+    ---
     ```Pascal
     program KuadranKoordinat;
     uses crt;
